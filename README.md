@@ -11,6 +11,6 @@ Below are the algorithms and key details:-
 
 Apart from ML algorithms, it also contains numpy code for below:-
 
-1. Evaluation and Validation
+1. Evaluation and Validation: Confusion Matrix, ROC AUC, KFOLD 
 2. Probability and Statistics
 3. Practice ML coding Questions.
